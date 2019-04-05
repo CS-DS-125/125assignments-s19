@@ -1,0 +1,15 @@
+{
+  "name": "project2",
+  "endpoint": "iwu/csds125/sp19/project2",
+  "src": [
+    "project2.ipynb"
+  ],
+  "tests": {
+    "tests/qdummy.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
